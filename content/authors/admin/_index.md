@@ -47,7 +47,7 @@ status:
 last_name: Wu
 role: Professor of Artificial Intelligence
 highlight_name: true
-title: Guillaume Chennetier
+title: Alice Wu 吳恩達
 first_name: Alice
 email: ""
 ---
