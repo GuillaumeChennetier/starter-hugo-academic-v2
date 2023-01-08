@@ -2,7 +2,7 @@
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
+  - Monte-Carlo methods
   - Computational Linguistics
   - Information Retrieval
 social:
@@ -44,11 +44,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Chennetier
 role: Professor of Artificial Intelligence
 highlight_name: true
-title: Alice Wu 吳恩達
-first_name: Alice
+title: Guillaume Chennetier
+first_name: Guillaume
 email: ""
 ---
 
